@@ -70,12 +70,3 @@
   ## Test
   npm.start
 
-  ## Mock
-  ![Alt text](Assets/00-demo.gif)
-
-  ![Alt text](Assets/01-manifest.png)
-
-  ![Alt text](Assets/02-service-worker.png)
-
-  ![Alt text](Assets/03-idb-storage.png)
-
